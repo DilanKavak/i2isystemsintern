@@ -1,0 +1,1 @@
+SELECT EMPLOYEE_ID,FIRST_NAME,DEPARTMENT_NAME FROM HR.employees INNER JOIN HR.departments ON hr.employees.department_ýd=hr.departments.department_ýd
