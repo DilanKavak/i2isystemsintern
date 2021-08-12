@@ -1,2 +1,2 @@
 # i2isystemsintern 
-Staj sürecimde gerçekleştirmiş olduğum çalışmalar
+Work I have done during my internship
